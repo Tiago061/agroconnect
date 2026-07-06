@@ -33,6 +33,7 @@ export const Splash: React.FC = () => {
             src="/logo.jpg"
             alt="AgroConnect Logo"
             fill
+            sizes="144px"
             className="object-cover"
             priority
           />

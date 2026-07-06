@@ -66,6 +66,7 @@ export const Header: React.FC = () => {
                 src="/logo.jpg" 
                 alt="AgroConnect Logo" 
                 fill 
+                sizes="32px"
                 className="object-cover"
               />
             </div>
